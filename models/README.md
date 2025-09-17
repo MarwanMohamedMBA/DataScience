@@ -105,4 +105,3 @@ Applied ML in a real-world public health scenario, delivering insights that matt
 
 This project is both a technical achievement and a public health message:
 Vaccines save lives. Data proves it.
->>>>>>> badd5ea (Add VaxImpactML notebook and README: shows COVID outcomes by vaccine status)
