@@ -1,4 +1,4 @@
-Integrated Capstone Project: Healthcare Patient Prognosis Prediction
+📄 README – Integrated Capstone Project: Healthcare Patient Prognosis Prediction
 Project Overview
 
 This capstone project simulates a real-world healthcare scenario where data-driven insights can improve patient care and hospital efficiency. The goal is to develop an AI-powered system capable of predicting patient outcomes, such as the risk of appointment no-shows, length of stay, and response to treatments.
@@ -17,7 +17,7 @@ Building predictive models
 
 Deploying AI applications for actionable insights
 
-Project Breakdown by Certificate
+Project Breakdown by Certificate(IBM Certifications form Coursera, progressing with capstone as I go through learning material)
 1. Data Science Foundations
 
 Perform initial data exploration and cleaning
