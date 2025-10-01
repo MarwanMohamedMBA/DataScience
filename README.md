@@ -1,6 +1,5 @@
-# Machine Learning Experiments
-
-Welcome to my Machine Learning repository! This repo is a growing collection of projects, experiments, and learning exercises as I continue to develop my skills in Python, machine learning, and data analysis.  
+# Data Science and ML projects
+Welcome to my Data Science and Machine Learning repository! This repo is a growing collection of projects, experiments, and learning exercises as I continue to develop my skills in Python, machine learning, and data analysis.  
 
 ## Purpose of this Repository
 I created this repo to:
